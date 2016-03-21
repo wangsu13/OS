@@ -1,0 +1,40 @@
+virtual page:8	op:write
+page0replaced
+virtual page:7	op:write
+page1replaced
+virtual page:4	op:write
+page2replaced
+virtual page:6	op:write
+page3replaced
+virtual page:13	op:write
+page4replaced
+virtual page:1	op:write
+page5replaced
+virtual page:3	op:write
+page6replaced
+virtual page:1	op:read
+hit
+virtual page:19	op:write
+page7replaced
+virtual page:2	op:write
+page8replaced
+virtual page:4	op:read
+hit
+virtual page:15	op:write
+page9replaced
+virtual page:16	op:write
+page0replaced
+virtual page:12	op:write
+page1replaced
+virtual page:8	op:read
+page0replaced
+virtual page:13	op:write
+hit
+virtual page:14	op:read
+page2replaced
+virtual page:9	op:read
+page0replaced
+virtual page:19	op:write
+hit
+virtual page:5	op:write
+page1replaced
